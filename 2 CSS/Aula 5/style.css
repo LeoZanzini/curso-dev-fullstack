@@ -1,0 +1,17 @@
+body{
+    background: rgb(72, 72, 167);
+}
+p{
+    color: rgb(180, 180, 255);
+}
+
+.foto-principal {
+    border: 5px double black;
+    border-radius: 20% 50% 90% 0%;
+    
+    margin: 30px 30px 30px 30px;
+    
+    
+    
+}
+   

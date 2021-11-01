@@ -1,0 +1,32 @@
+body{
+    background: rgb(131, 131, 143);
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+p{
+    color: rgb(180, 180, 255);
+}
+
+.foto-principal {
+    border: 5px double black;
+    border-radius: 20% 50% 90% 0%;
+    
+    margin: 30px;
+
+    padding: 20px 40px;
+
+    box-shadow:12px 12px 12px hsl(242deg 100% 72%);
+}
+
+h1 {margin-bottom: 0;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+
+h2 {margin-top: 0;
+    font-style: italic;
+    color: rgb(48, 47, 47);
+    font-weight: 200;
+    letter-spacing: 3px;
+}
+   
