@@ -1,0 +1,74 @@
+
+body{
+    background-image: url(img/background.png);
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+}
+
+.info{
+    text-align: center;
+    padding-top: 110px;
+    color: white;
+    margin: auto;
+
+}
+
+.logo{
+    width: 110px;
+    margin-bottom: 5px;
+}
+
+.tittle{
+    font-size: 45px;
+    padding-top: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.subtittle{
+    font-weight:400;
+    font-size: 30px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.h3{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.form{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.input{
+    padding-left: 5px;
+    width:98%;
+    height: 30px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: transparent;
+    
+       
+}
+
+.button{
+    padding: 8px;
+    width:100%;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(64, 140, 240);
+    color: white;    
+}
+
+.button:hover{
+    background-color: rgb(26, 89, 170);
+}
+
