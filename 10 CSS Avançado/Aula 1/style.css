@@ -1,0 +1,21 @@
+:root{
+    --cor-primaria: rgb(16, 146, 55);
+    --cor-secundaria: rgb(81, 31, 197);
+}
+
+h1{
+    color: var(--cor-primaria);
+}
+
+h2{
+    color:var(--cor-secundaria);
+}
+
+p{
+    color: var(--cor-primaria);
+}
+
+button{
+    background: var(--cor-primaria);
+    color: white;
+}
